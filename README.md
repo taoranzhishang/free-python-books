@@ -187,7 +187,4 @@ Thanks to the redditors who contributed book suggestions and links in [my origin
 Each file in this repository is licensed under the [CC BY 4.0 License](/LICENSE).
 
 ## Sponsor this project
-
-<a href="https://www.buymeacoffee.com/amoroso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" width="220px"></a>
-
-If you find this resource useful and want to sponsor the project you can [buy me a coffee](https://www.buymeacoffee.com/amoroso).
+0x05dd22cb6618CaC076B41044C443fE4636BB8Df9
